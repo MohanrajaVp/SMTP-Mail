@@ -1,0 +1,17 @@
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\bin\Debug\net8.0\SendEmailRequest.exe
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\bin\Debug\net8.0\SendEmailRequest.deps.json
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\bin\Debug\net8.0\SendEmailRequest.runtimeconfig.json
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\bin\Debug\net8.0\SendEmailRequest.dll
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\bin\Debug\net8.0\SendEmailRequest.pdb
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\bin\Debug\net8.0\OpenPop.dll
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.csproj.AssemblyReference.cache
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.AssemblyInfoInputs.cache
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.AssemblyInfo.cs
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.csproj.CoreCompileInputs.cache
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmai.C3BE9132.Up2Date
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.dll
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\refint\SendEmailRequest.dll
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.pdb
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\SendEmailRequest.genruntimeconfig.cache
+C:\Users\skarthik\source\repos\SendEmailRequest\SendEmailRequest\obj\Debug\net8.0\ref\SendEmailRequest.dll
